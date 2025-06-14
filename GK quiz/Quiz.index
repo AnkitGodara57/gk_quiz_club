@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+    <html>
+          <head>
+             <meta charset="UTF-8">
+             <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title> Daily quiz 
+                </title>
+          </head>
+          <body>
+          <marquee> Welcome learner </marquee>
+          <h1>Select your course</h1>
+          <section>
+                <a href="all.html">all</a>
+                <a href="polity.html">Polity</a>
+                <a href="history.html">history</a>
+                <a href="geography.html">geography</a>
+                <a href="english.html">english</a>
+                <a href="economics.html">Economics</a>
+                <a href="biology.html">Biology</a>
+                <a href="physics.html">Physics</a>
+          </section>
+          </body>
+   </html>      
+          
+
+       
+                 
